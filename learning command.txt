@@ -1,0 +1,31 @@
+run these commands from CMD
+mkdir mlflow
+cd mlflow
+code .
+
+bash terminal
+conda create -p env python=3.8 -y
+source activate ./env
+
+cmd termial
+conda create -p env python=3.8 -y
+conda activate <absloute path of env>
+
+shortcut
+conda create -p env python=3.8 -y && source activate ./env
+
+touch requirements_mlflow.txt
+
+pip install -r requirements_mlflow.txt
+
+pip list
+
+touch first_trail.py
+
+<write the code in python file>
+
+python first_trail.py
+
+mlflow ui
+
+mlflow dvc
