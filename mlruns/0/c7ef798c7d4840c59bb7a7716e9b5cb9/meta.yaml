@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/c7ef798c7d4840c59bb7a7716e9b5cb9/artifacts
+end_time: 1723839420045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7ef798c7d4840c59bb7a7716e9b5cb9
+run_name: treasured-skunk-156
+run_uuid: c7ef798c7d4840c59bb7a7716e9b5cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839414777
+status: 3
+tags: []
+user_id: SAIF

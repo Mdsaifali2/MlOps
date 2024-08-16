@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/5440f1b5c07f451b8c8aa189a08142dd/artifacts
+end_time: 1723839554417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5440f1b5c07f451b8c8aa189a08142dd
+run_name: classy-finch-790
+run_uuid: 5440f1b5c07f451b8c8aa189a08142dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839548695
+status: 3
+tags: []
+user_id: SAIF

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/c726604a8d034f8db65806917d2d0ade/artifacts
+end_time: 1723837715819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c726604a8d034f8db65806917d2d0ade
+run_name: fun-jay-481
+run_uuid: c726604a8d034f8db65806917d2d0ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723837714419
+status: 3
+tags: []
+user_id: SAIF

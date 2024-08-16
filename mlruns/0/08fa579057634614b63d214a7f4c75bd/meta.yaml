@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/08fa579057634614b63d214a7f4c75bd/artifacts
+end_time: 1723839440856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08fa579057634614b63d214a7f4c75bd
+run_name: delicate-sheep-398
+run_uuid: 08fa579057634614b63d214a7f4c75bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839435565
+status: 3
+tags: []
+user_id: SAIF

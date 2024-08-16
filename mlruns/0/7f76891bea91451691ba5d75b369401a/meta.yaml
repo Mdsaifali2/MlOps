@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/7f76891bea91451691ba5d75b369401a/artifacts
+end_time: 1723839335343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f76891bea91451691ba5d75b369401a
+run_name: capable-gnu-766
+run_uuid: 7f76891bea91451691ba5d75b369401a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839330295
+status: 3
+tags: []
+user_id: SAIF

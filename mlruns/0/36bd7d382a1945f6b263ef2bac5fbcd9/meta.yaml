@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/36bd7d382a1945f6b263ef2bac5fbcd9/artifacts
+end_time: 1723839366747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36bd7d382a1945f6b263ef2bac5fbcd9
+run_name: popular-trout-710
+run_uuid: 36bd7d382a1945f6b263ef2bac5fbcd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839361667
+status: 3
+tags: []
+user_id: SAIF

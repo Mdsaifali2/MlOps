@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/4081901a68aa4704bbbed1dfa84e523a/artifacts
+end_time: 1723839542847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4081901a68aa4704bbbed1dfa84e523a
+run_name: caring-finch-944
+run_uuid: 4081901a68aa4704bbbed1dfa84e523a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839537242
+status: 3
+tags: []
+user_id: SAIF

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/2ab6a57dc6dc4e518d7ed49ac20efbf0/artifacts
+end_time: 1723839576690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ab6a57dc6dc4e518d7ed49ac20efbf0
+run_name: rare-perch-26
+run_uuid: 2ab6a57dc6dc4e518d7ed49ac20efbf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839571626
+status: 3
+tags: []
+user_id: SAIF

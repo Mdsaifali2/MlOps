@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/57ad123907134be7a97ed0d36500aa01/artifacts
+end_time: 1723839356425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57ad123907134be7a97ed0d36500aa01
+run_name: gifted-zebra-727
+run_uuid: 57ad123907134be7a97ed0d36500aa01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839351497
+status: 3
+tags: []
+user_id: SAIF

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/acff109df68947e4bfce4e5ecd5d7ac1/artifacts
+end_time: 1723839531285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acff109df68947e4bfce4e5ecd5d7ac1
+run_name: auspicious-fox-785
+run_uuid: acff109df68947e4bfce4e5ecd5d7ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839525595
+status: 3
+tags: []
+user_id: SAIF

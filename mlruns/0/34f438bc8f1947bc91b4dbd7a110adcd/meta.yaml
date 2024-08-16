@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/34f438bc8f1947bc91b4dbd7a110adcd/artifacts
+end_time: 1723839496375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34f438bc8f1947bc91b4dbd7a110adcd
+run_name: abrasive-steed-786
+run_uuid: 34f438bc8f1947bc91b4dbd7a110adcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839490187
+status: 3
+tags: []
+user_id: SAIF

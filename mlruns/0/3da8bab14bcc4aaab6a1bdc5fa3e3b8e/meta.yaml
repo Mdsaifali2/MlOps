@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Education/Bismillah/Mlflow/mlruns/0/3da8bab14bcc4aaab6a1bdc5fa3e3b8e/artifacts
+end_time: 1723839388889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da8bab14bcc4aaab6a1bdc5fa3e3b8e
+run_name: enthused-trout-202
+run_uuid: 3da8bab14bcc4aaab6a1bdc5fa3e3b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723839382389
+status: 3
+tags: []
+user_id: SAIF
